@@ -1,0 +1,6 @@
+print("-----First Program - Python print function-----")
+print("It's  Declared like this : ")
+print("print('What to print')")
+print('print("What to print")')
+print("Hello World..!!")
+print('HELLO WORLD')
