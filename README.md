@@ -1,2 +1,2 @@
-# Python-basics  
+# Python-basics
 Exploring Python essentials through hands-on learning.
